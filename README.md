@@ -63,8 +63,3 @@ The following images show the web application's appearance and functionality:
 ![Note-Taker](#)
 ![Note-Taker](#)
 ![Note-Taker](#)
-
-## Video Link
-[Note-Taker (https://drive.google.com/file/d/1QQ5osMzUYvnH4Zd8i6dTjL7Si6_bG2PX/view?usp=sharing)]
-
-[Note-Taker (https://drive.google.com/file/d/1J1GhTphBZxzT8j2F6TmX5z8vWrVhAsJI/view?usp=sharing)]
