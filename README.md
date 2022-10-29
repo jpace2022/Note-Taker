@@ -50,7 +50,7 @@ The following images show the web application's appearance and functionality:
 ![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
 
 ## Deployed URL
-    [Note-Taker (https://ancient-plateau-06469.herokuapp.com/)]
+    [Note-Taker (https://ancient-plateau-06469.herokuapp.com)]
 
 ## GitHub Repo
    [Note-Taker (https://github.com/jpace2022/Note-Taker.git)] 
@@ -60,6 +60,6 @@ The following images show the web application's appearance and functionality:
     
 
 ## Screenshot Image
-![Note-Taker](#)
-![Note-Taker](#)
-![Note-Taker](#)
+![Note-Taker](https://github.com/jpace2022/Note-Taker/blob/main/Assets/Screen%20shot%20Home%20page.png?raw=true)
+![Note-Taker](https://github.com/jpace2022/Note-Taker/blob/main/Assets/Screen%20shot%201.png?raw=true)
+![Note-Taker](https://github.com/jpace2022/Note-Taker/blob/main/Assets/Screen%20shot%202.png?raw=true)
